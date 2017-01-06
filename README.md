@@ -1,6 +1,6 @@
 # Introduction
 
-This sample application demonstrate implementation of [Angular-in-memory-web-api](https://github.com/angular/in-memory-web-api) in [Angular-seed project](https://github.com/mgechev/angular-seed). 
+This sample application demonstrate implementation of [Angular-in-memory-web-api](https://github.com/angular/in-memory-web-api) in [Angular-seed](https://github.com/mgechev/angular-seed) project. 
 
 Below documentation is from angular-seed. You need to follow below instructions to configure and run.
 
