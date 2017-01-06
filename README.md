@@ -1,5 +1,9 @@
 # Introduction
 
+This sample application demonstrate implementation of Angular-in-memory-web-api in Angular-seed project. 
+
+Below documentation is from angular-seed. You need to follow below instructions to configure and run.
+
 [![Angular Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://angular.io/styleguide)
 [![Build Status](https://travis-ci.org/mgechev/angular-seed.svg?branch=master)](https://travis-ci.org/mgechev/angular-seed)
 [![Build Status](https://ci.appveyor.com/api/projects/status/jg5vg36w0klpa00e/branch/master?svg=true)](https://ci.appveyor.com/project/mgechev/angular2-seed)
