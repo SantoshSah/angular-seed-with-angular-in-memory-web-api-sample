@@ -1,6 +1,6 @@
 # Introduction
 
-This sample application demonstrate implementation of [Angular-in-memory-web-api](https://github.com/angular/in-memory-web-api) in [Angular-seed](https://github.com/mgechev/angular-seed) project. 
+This sample application demonstrates implementation of [Angular-in-memory-web-api](https://github.com/angular/in-memory-web-api) in [Angular-seed](https://github.com/mgechev/angular-seed) project. 
 
 # How to start
 
@@ -152,7 +152,7 @@ $ npm run e2e
 $ npm run e2e.live
 ```
 
-# Please follow [angular-seed documentation](https://github.com/mgechev/angular-seed/blob/master/README.md) for more information about angular-seed project and [angular-in-memory-web-api dcoumentation](https://github.com/angular/in-memory-web-api/blob/master/README.md) for angular-in-memory-web-api information.
+Please follow [angular-seed documentation](https://github.com/mgechev/angular-seed/blob/master/README.md) for more information about angular-seed project and [angular-in-memory-web-api dcoumentation](https://github.com/angular/in-memory-web-api/blob/master/README.md) for angular-in-memory-web-api information.
 
 
 
